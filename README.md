@@ -15,7 +15,7 @@
 
 И запустить режим разработки. npm start
 
-Перейти по адресу в браузе[http://localhost:4040](http://localhost:4040).
+Перейти по адресу в браузе [http://localhost:4040](http://localhost:4040).
 
 ### Building
 
